@@ -313,3 +313,7 @@ footer {
   font-size: 52px;
   margin: 15px;
 }
+
+.head-text {
+  text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.15)
+}
